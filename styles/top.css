@@ -29,7 +29,7 @@ section .left h2 {
 }
 
 section .right {
-    background-image: url("/images/anne.webp");
+    background-image: url("images/anne.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0 25%;

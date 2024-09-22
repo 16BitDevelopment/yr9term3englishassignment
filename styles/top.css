@@ -28,17 +28,8 @@ section .left h2 {
     font-size: 2rem;
 }
 
-<<<<<<< HEAD
-section .right {
-    background-image: url("/styles/anne.webp");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 0 25%;
-}
-=======
 section .right img {
     height: 500px;
     width: 100%;
     object-fit: cover;
 }
->>>>>>> ceb52af (.top img works now)
